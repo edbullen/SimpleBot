@@ -3,7 +3,6 @@ import sys
 
 import csv
 import string
-from datetime import datetime
 
 import utils  # General utils including config params and database connection
 
